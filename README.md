@@ -14,7 +14,7 @@ Keterangan untuk akun Dosen
 username : 0017067902
 password : 0017067902Dsn*
 
-NP : Untuk FILE DATABASE Ada di folder luar dengan nama file db_sisds(1)(1).sql 
-Ketika LPPM create akun dosen,mahasiswa, Kajur maka otomatis password sudah di set sendiri akun mahasiswa maka passwordnya : NIM+Aa* dan untuk dosen,prodi NIDN+Dsn*.
+NP : Untuk FILE DATABASE Ada di folder luar dengan nama file db_sisds(1)(1).sql <b>Tidak di migrate laravel</b> <br>
+Ketika LPPM create akun dosen,mahasiswa, Kajur maka otomatis password sudah di set sendiri akun mahasiswa maka passwordnya : NIM+Aa* dan untuk dosen,prodi NIDN+Dsn*. <br>
 Terimakasih kami ucapkan kepada dosen terkait atas bimbingannya selama KP 2020-2021 sehingga berjalan dengan lancar.
 Kami Kelompok KP 18.
